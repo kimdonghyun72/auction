@@ -1,0 +1,19 @@
+# Gradle files
+.gradle/
+build/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Java class files
+*.class
+
+# Maven output
+target/
+
+# Log files
+*.log
+
+# Spring Boot specific
+*.jar
